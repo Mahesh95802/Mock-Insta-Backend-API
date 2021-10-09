@@ -2,7 +2,8 @@
 
 download the files and put them into a folder. Add the folder to the Go\src. 
 
-install the dependencies\n
+install the dependencies
+
 go get github.com/gorilla/mux
 go get go.mongodb.org/mongo-driver/mongo
 
