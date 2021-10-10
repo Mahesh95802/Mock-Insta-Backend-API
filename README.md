@@ -7,5 +7,5 @@ Install the following Dependencies
 go get github.com/gorilla/mux
 go get go.mongodb.org/mongo-driver/mongo
 ```
-Then run the file using,
+Then run the file using
 ```go get . ```
